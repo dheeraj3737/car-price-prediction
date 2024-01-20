@@ -1,0 +1,12 @@
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+tensorflow==2.10
+hyperas
+hyperopt
+gradio
+xgboost
+catboost
+notebook
